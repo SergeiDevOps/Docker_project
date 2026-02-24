@@ -29,5 +29,3 @@ git clone https://github.com/SergeiDevOps/Docker_project.git
 cd docker-pj
 
 docker-compose up --build
-
-<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/abc8933f-b8cc-4f64-81d9-a82f867aff80" />
