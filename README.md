@@ -1,5 +1,12 @@
 # Docker_project
-Docker+nginx+phpfpm+MySQL+phpMyAdmin
+Развертывание простого проекта в Docker:  Nginx + PHP + MySQL + phpMyAdmin
+
+1.	Nginx – веб сервер
+2.	PHP – сервис для выполнения скриптов сайта
+3.	MySQL – база данных
+4.	phpMyAdmin – сервис для управления базой
+
+Собран docker-compose для автоматического запуска контейнеров.
 
 Docker+ Bundle Nginx + PHP-FPM + MySQL + phpMyAdmin (LEMP stack) 
 is an industry standard for the rapid development, 
