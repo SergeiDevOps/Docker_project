@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# MySQL data
+mysql-data/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
