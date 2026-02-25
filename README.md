@@ -7,7 +7,7 @@ The project deploys a local environment for PHP applications using:
 
 •  Nginx 1.27 (alpine) - web server
 
- PHP (custom assembly) -- service for executing site scripts
+•  PHP (custom assembly) - service for executing site scripts
 
 •  MySQL 8.0 – database
 
@@ -63,9 +63,9 @@ The stack is suitable for local development of PHP projects.
 
 └── images/
 
-└── php/
+ └── php/
 
-└── Dockerfile
+  └── Dockerfile
  
  # Environment Variables (.env)
 
